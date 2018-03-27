@@ -1,0 +1,7 @@
+org\missaoui\test\controller\ClientController.class
+org\missaoui\test\config\AppConfig.class
+org\missaoui\test\dao\ClientDAO.class
+org\missaoui\test\service\ClientService.class
+org\missaoui\test\config\WebConfig.class
+org\missaoui\test\model\Client.class
+org\missaoui\test\config\MyWebAppInitializer.class

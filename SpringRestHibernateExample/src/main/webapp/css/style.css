@@ -1,0 +1,14 @@
+.form-control.ng-dirty.ng-valid
+{
+	background-color: lightgreen;
+}
+
+.form-control.ng-dirty.ng-invalid
+{
+	background-color: yellow;
+}
+
+form
+{
+	background-color: lightblue;
+}
